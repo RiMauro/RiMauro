@@ -1,1 +1,3 @@
-- Defaults
+- Default settings enabled
+
+originality=0
